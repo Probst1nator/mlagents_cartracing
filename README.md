@@ -4,7 +4,7 @@
 
 This project is a Kart-Racing game where AI agents are trained to navigate a complex track using the Unity ML-Agents Toolkit. The goal was to implement a robust reinforcement learning environment where agents learn to drive efficiently, stay on the track, and complete laps.
 
-[![Racemap]](doku/Szene.PNG)
+[![Gameplay](Gameplay.mp4)](Gameplay.mp4)
 
 **Context:**  
 Created in late 2022 as part of a vocational training project (Fachinformatiker für Anwendungsentwicklung).
