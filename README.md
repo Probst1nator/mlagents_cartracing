@@ -4,6 +4,8 @@
 
 This project is a Kart-Racing game where AI agents are trained to navigate a complex track using the Unity ML-Agents Toolkit. The goal was to implement a robust reinforcement learning environment where agents learn to drive efficiently, stay on the track, and complete laps.
 
+['Racemap'](doku/racemap.png)
+
 **Context:**  
 Created in late 2022 as part of a vocational training project (Fachinformatiker für Anwendungsentwicklung).
 
@@ -71,18 +73,8 @@ Created in late 2022 as part of a vocational training project (Fachinformatiker 
 
 - **Gameplay Video:**  
   See [`Gameplay.mp4`](./Gameplay.mp4) for a demonstration of the trained AI in action.
-- **Screenshots & Diagrams:**  
-  The `doku/` folder contains:
-  - AI design diagrams (`AI Design.PNG`)
-  - Reward logic (`arcadeKart_ai Belohnungs Logik.PNG`, `Belohnung Front .PNG`, `Belohnung Rückwärts.PNG`)
-  - Control logic (`arcadeKart_ai Steuerungslogik.PNG`)
-  - Variable overview (`arcadeKart_ai variablen.PNG`)
-  - Scene setup (`Szene.PNG`)
-  - Lakitu system (`Lakitu Manager.PNG`)
-  - AI spawner (`aiSpawner.PNG`)
-  - ML-Agents package manager (`PackageManager ML Agents.PNG`)
-  - Episode reset logic (`arcadeKart_ai resetScene zeitabzug.PNG`)
-  - Additional design notes (`Unbenannt.PNG`)
+- **Images**  
+  The `doku/` folder contains a lot of screenshots that document the core design and implementation choices of the project.
 
 ---
 
